@@ -43,14 +43,28 @@ const data = [
   },
   {
     id: 7,
-    name: "Laptop 4",
+    name: "Laptop 7",
     price: 21956.0,
     currency: "Rs",
     image: "images/06.jpg"
   },
   {
     id: 8,
-    name: "Laptop 5",
+    name: "Laptop 8",
+    price: 88859.0,
+    currency: "Rs",
+    image: "images/05.jpg"
+  },
+  {
+    id: 9,
+    name: "Laptop 9",
+    price: 21956.0,
+    currency: "Rs",
+    image: "images/06.jpg"
+  },
+  {
+    id: 10,
+    name: "Laptop 10",
     price: 88859.0,
     currency: "Rs",
     image: "images/05.jpg"
